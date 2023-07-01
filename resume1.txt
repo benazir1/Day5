@@ -1,0 +1,53 @@
+let myResume={
+    "basics": {
+      "name": "BENAZIR I",
+      "email": "benazir1989@gamil.com",
+      "phone": 8489644930,
+      "degree": "M.C.A",
+      "location": {
+        "address": "D3,Rumman Residency 3Th floor surya nagar k.pudur",
+        "postalCode": 625007,
+        "city": "Madurai",
+        "state": "Tamilnadu",
+        "country": "India"
+      },
+      
+    },
+    "work": [
+      {
+        "company": "The Photophilehub PVT",
+        "position": "Business Executive",
+        "startDate": "2020-11-04",
+        "endDate": "2021-08-15",
+        "summary": "i am the business executive handling various task and gaining lots of experience",
+      },
+    ],
+    "education": [
+      {
+        "institution": "Thiagarajar College Of Engineering",
+        "department": "Computer Science",
+        "studyType": "fulltime",
+        "batch start year": 2010,
+        "batch end year": 2013,
+        "gpa": 7.95,
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML,javascript",
+        "level": "beginer",
+        
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,Enlish",
+      }
+    ],
+    "interests": [
+      {
+        "name": "Cooking,Reading Books,",
+      }
+    ]
+  }
+console.log(myResume);
